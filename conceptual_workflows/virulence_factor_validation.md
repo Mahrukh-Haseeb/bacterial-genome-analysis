@@ -15,4 +15,4 @@ This document outlines the four-step bioinformatics pipeline designed to move fr
 
 
 ## Conclusion
-This layered approach is critical for the classification of novel virulence factors. By establishing four independent lines of evidence—homology, function, prediction, and genomic context, the conclusion moves from a simple hypothesis to a high-confidence finding.
+This layered approach is critical for the classification of novel virulence factors. By establishing four independent lines of evidence: homology, function, prediction, and genomic context, the conclusion moves from a simple hypothesis to a high-confidence finding.
